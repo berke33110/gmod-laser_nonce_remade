@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "gmod/SWEP/weapon_laserdance"	
+
+	"$nolod" 			"1"
+	"$ignorez"		"1"
+	"$vertexcolor" 		"1"
+	"$vertexalpha" 		"1"
+}
