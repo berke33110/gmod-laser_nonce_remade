@@ -9,8 +9,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=971019928
 * laserdance_healsounds - 1: Play sounds when healed, 0: Disable healing sounds
 
 # Credits:
-Garry Newman: Original code, map and weapon icon 
-Notox: Gmod 10 port
-HUNcamper: Porting it to Gmod 13
-Me: Editing, spawnicon... yes that's it
-Valve: Models and the sounds
+* Garry Newman: Original code, map and weapon icon 
+* Notox: Gmod 10 port
+* HUNcamper: Porting it to Gmod 13
+* Me: Editing, spawnicon... yes that's it
+* Valve: Models and the sounds
